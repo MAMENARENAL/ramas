@@ -1,4 +1,7 @@
 
 "En la carpeta común arreglos hemos dejado la solución"
+<<<<<<< HEAD
 Añado linea en rama arreglos
+
+=======
 
